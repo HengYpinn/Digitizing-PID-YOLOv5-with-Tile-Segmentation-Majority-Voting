@@ -1,6 +1,6 @@
-# P&ID Component Detection and Classification Using YOLOv5
+# Digitizing Piping and Instrumentation Diagrams: A YOLOv5-Based Approach with Tile-Segmentation and Majority Voting 
 
-This repository contains code and resources for detecting and classifying components in Piping and Instrumentation Diagrams (P&IDs) using the YOLOv5 deep learning model. The project explores three different inference approaches—full image processing, tile-based processing without majority voting, and tile-based processing with majority voting—to evaluate accuracy and efficiency in component detection.
+This repository contains code and resources for detecting and classifying components in Piping and Instrumentation Diagrams (P&IDs) using the YOLOv5 deep learning model. The project explores three different inference approaches—full image processing, tile-based processing without majority voting, and tile-based processing with majority voting. Evaluation metrics including accuracy, precision, recall, F1-Score, average IoU, and inference time are reported to assess the effectiveness of each approach. 
 
 ## Table of Contents
 
