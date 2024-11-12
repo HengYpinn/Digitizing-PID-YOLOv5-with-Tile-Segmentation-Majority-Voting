@@ -64,7 +64,7 @@ Similar to the previous scenario, but a majority voting mechanism is applied to 
 </div>
 <br>
 <div align="center">
-    <img src="https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/test%20result.png" alt="Evaluation metrics of each scenario" width="30%">
+    <img src="https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/test%20result.png" alt="Evaluation metrics of each scenario" width="50%">
     <p><strong>Evaluation metrics of each scenario</strong></p>
 </div>
 
