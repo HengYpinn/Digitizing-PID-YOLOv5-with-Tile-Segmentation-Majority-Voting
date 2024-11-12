@@ -55,12 +55,17 @@ Each image is split into overlapping 1280x1280 tiles, processed individually. Th
 ### 3. Tile-Based Processing with Majority Voting
 Similar to the previous scenario, but a majority voting mechanism is applied to merge overlapping bounding boxes across tiles. This improves detection accuracy by reducing duplication and improving localization.
 
+
 ## Results
-<p align="center">
-![Result of the trained model](https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/trained%20model.png)
-Result of the trained model
-</p>
-<p align="center">
-![Evaluation metrics of each scenario](https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/test%20result.png)
-Evaluation metrics of each scenario
-</p>
+
+<div align="center">
+    <img src="https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/trained%20model.png" alt="Result of the trained model" width="20%">
+    <p><strong>Result of the trained model</strong></p>
+</div>
+<br>
+<div align="center">
+    <img src="https://github.com/HengYpinn/Digitizing-PID-YOLOv5-with-Tile-Segmentation-Majority-Voting/blob/main/test%20result.png" alt="Evaluation metrics of each scenario" width="30%">
+    <p><strong>Evaluation metrics of each scenario</strong></p>
+</div>
+
+
