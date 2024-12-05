@@ -29,7 +29,7 @@ The trained YOLOv5 model's dataset is obtained from here: https://www.kaggle.com
 The 3 inference scenarios are tested using this dataset:
 https://drive.google.com/drive/u/1/folders/1gMm_YKBZtXB3qUKUpI-LF1HE_MgzwfeR
 
-**Note**: This folder is downloaded and saved as `drive-download-20241024T173735Z-001.zip` which can be found in the `yolov5_p&ids`file.
+**Note**: This folder is downloaded and saved as `drive-download-20241024T173735Z-001.zip` which can be found in the `yolov5_p&ids.ipynb`file.
 
 ## Model Training
 
@@ -39,7 +39,7 @@ The YOLOv5 model is fine-tuned on this dataset using an NVIDIA A100 GPU. The key
 - **Epochs**: 20
 - **Pretrained Weights**: `yolov5l.pt`
 
-For detailed training configurations, see the `yolov5_p&ids` file.
+For detailed training configurations, see the `yolov5_p&ids.ipynb` file.
 
 Trained model's checkpoints can be found from here which including `best.pt`:
 https://drive.google.com/drive/folders/1_1GDL2BZQPU4ETPDUm2sGwvAS-QKza9-?usp=sharing
